@@ -1,4 +1,0 @@
-nubmer
-======
-
-guessing your number
